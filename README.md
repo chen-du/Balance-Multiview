@@ -1,3 +1,4 @@
 # Balance-Multiview
  
-To be released
+Multi-view Balance Related CoP Dataset.
+TO BE RELEASED
